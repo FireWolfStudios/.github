@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Simon @FireWolfStudios
+- 👀 We are interested in all forms of software development, from back end code through to games development
+- 💞️ Looking to collaborate on ML projects so reach out if we can help
+- 📫 info@firewolfstudios.co.uk
+- 👨‍💻 https://www.linkedin.com/company/firewolf-studios
+- 👨‍💻 www.firewolfstudios.co.uk
