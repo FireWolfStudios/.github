@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Simon @FireWolfStudios
+- At FireWolf Studios innovation meets precision. We specialise in creating bespoke, client-centred software solutions tailored to your unique needs. From cutting-edge technologies to seamless integrations, our expertise spans all areas of technology, delivering custom solutions that drive success. Let's build the future together.
 - 👀 We are interested in all forms of software development, from back end code through to games development
 - 💞️ Looking to collaborate on ML projects so reach out if we can help
 - 📫 info@firewolfstudios.co.uk
